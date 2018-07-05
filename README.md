@@ -15,6 +15,7 @@
 
 ## Controller
 // Behaviors
+"
 public function behaviors()
 {
     return [
@@ -24,5 +25,6 @@ public function behaviors()
 
     ];
 }
+"
 ## View
 <?= $form->field($model, 'path')->fileInput(['class' => 'dropify', 'data-default-file' => '/uploads/' . $model->path]) ?>
