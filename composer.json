@@ -22,7 +22,7 @@
         "unclead/yii2-multiple-input": "~2.0",
         "mihaildev/yii2-elfinder": "*",
         "mihaildev/yii2-ckeditor": "*",
-        "trntv/yii2-file-kit": "^1.3"
+        "trntv/yii2-file-kit": "^1.3",
         "kartik-v/yii2-widget-colorinput": "*"
     },
     "require-dev": {
